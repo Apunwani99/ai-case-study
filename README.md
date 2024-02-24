@@ -23,6 +23,7 @@ A few of the many other major companies in this field would be Jasper, Bria, Sak
 ## Results
 
 * What has been the business impact of this company so far?
+The business impact of this company has so far led them from a non&ndash;profit to a *"capped"* for&ndash;profit due to wanting to expand to allow OpenAI to partner with Microsoft. It has also helped cause the incredible speed at which AI has become an everyday tool for companies to use.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -30,13 +31,9 @@ A few of the many other major companies in this field would be Jasper, Bria, Sak
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If I were to recommend a product or service for OpenAI to offer, I would recommend as a next step to complete their generative AI collection, to create a text&ndash;to&ndash;music AI. I believe tbis would benefit the company by moving from an AI that can only generate visuals, to AI that can also generate audio as well. This advancement would be the seemingly next step after creating Sora, as a way to help companies market products and services to consumers. This technology could either be an entirely new project or simply an extension of Sora as it would most likely eventually need to be able to work together with a text&ndash;to&ndash;video AI to create proper marketing material and even possibly creative content that may not otherwise be possible.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+### Footnote/Bibliography
 
 [^fn1]: Chamath Palihapitiya, November 19, 2023, https://chamath.substack.com/p/a-short-history-of-openai
 
