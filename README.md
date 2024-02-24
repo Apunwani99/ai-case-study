@@ -23,11 +23,7 @@ A few of the many other major companies in this field would be Jasper, Bria, Sak
 ## Results
 
 * What has been the business impact of this company so far?
-The business impact of this company has so far led them from a non&ndash;profit to a *"capped"* for&ndash;profit due to wanting to expand to allow OpenAI to partner with Microsoft. It has also helped cause the incredible speed at which AI has become an everyday tool for companies to use.
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+The business impact of this company has so far led them from a non&ndash;profit to a *"capped"* for&ndash;profit due to wanting to expand to allow OpenAI to partner with Microsoft. It has also helped cause the incredible speed at which AI has become an everyday tool for companies to use. To measure the success and progress of companies like OpenAI is difficult since, as a research company they are free to set their own metrics. OpenAI has set their own metric for their success with 4 main metrics as outlined in their blog. These metrics include; Measuring progress through a variety of OpenAI GYM environments, Building a household robot, Building an agent with useful natural language understanding, and Solve a wide variety of games using a single agent. [^fn7] OpenAI has been doing well to progress through these metrics and an incredible pace over these last 5&ndash;10 years and is currently leading in the advancement of generative AI.
 
 ## Recommendations
 
@@ -46,3 +42,5 @@ If I were to recommend a product or service for OpenAI to offer, I would recomme
 [^fn5]: David Smulders, February 13, 2024, https://www.linkedin.com/pulse/how-openai-can-help-your-business-stay-competitive-smulders-gaicd-1cdne?trk=public_post_main-feed-card_feed-article-content#:~:text=Companies%20that%20use%20the%20power,an%20increasingly%20AI%2Ddriven%20marketplace.
 
 [^fn6]: Tima Bansal, January 16, 2024, https://www.forbes.com/sites/timabansal/2024/01/16/openai-or-anthropic-which-will-keep-you-more-safe/?sh=f27d5f51221e
+
+[^fn7]: Ilya Sutskever, Greg Brockman, Sam Altman, Elon Musk, June 20, 2016, https://openai.com/blog/openai-technical-goals
