@@ -22,7 +22,6 @@ A few of the many other major companies in this field would be Jasper, Bria, Sak
 
 ## Results
 
-* What has been the business impact of this company so far?
 The business impact of this company has so far led them from a non&ndash;profit to a *"capped"* for&ndash;profit due to wanting to expand to allow OpenAI to partner with Microsoft. It has also helped cause the incredible speed at which AI has become an everyday tool for companies to use. To measure the success and progress of companies like OpenAI is difficult since, as a research company they are free to set their own metrics. OpenAI has set their own metric for their success with 4 main metrics as outlined in their blog. These metrics include; Measuring progress through a variety of OpenAI GYM environments, Building a household robot, Building an agent with useful natural language understanding, and Solve a wide variety of games using a single agent. [^fn7] OpenAI has been doing well to progress through these metrics and an incredible pace over these last 5&ndash;10 years and is currently leading in the advancement of generative AI.
 
 ## Recommendations
